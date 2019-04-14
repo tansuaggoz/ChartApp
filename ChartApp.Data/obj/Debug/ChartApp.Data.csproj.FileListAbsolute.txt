@@ -1,0 +1,11 @@
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\bin\Debug\ChartApp.Data.dll
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\bin\Debug\ChartApp.Data.pdb
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\bin\Debug\Google.Protobuf.dll
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\bin\Debug\MySql.Data.dll
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\bin\Debug\Google.Protobuf.xml
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\bin\Debug\MySql.Data.xml
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\obj\Debug\ChartApp.Data.csprojAssemblyReference.cache
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\obj\Debug\ChartApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\obj\Debug\ChartApp.Data.csproj.CopyComplete
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\obj\Debug\ChartApp.Data.dll
+C:\Users\tansuaggoz\Desktop\ChartApp\ChartApp.Data\obj\Debug\ChartApp.Data.pdb
